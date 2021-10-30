@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Carrot Cake Recipe
-date: 2021-10-30T17:46:00+07:00
-category: Cake
-tags: [cake]
+title: "Carrot Cake Recipe"
+excerpt_separator: "<!--more-->"
+categories:
+  - Cake
+tags:
+  - cake
 ---
 
 ## Carrot Cake
