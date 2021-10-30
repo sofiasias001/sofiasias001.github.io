@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Chicken Recipes
-date: 2021-10-29T15:01:40+07:00
-category: Chicken
-tags: [chicken]
+title: "Chicken Recipes"
+excerpt_separator: "<!--more-->"
+categories:
+  - Chicken
+tags:
+  - chicken
 ---
 
 ## Chicken & chorizo jambalaya
