@@ -1,5 +1,6 @@
 ---
 title: "Carrot Cake Recipe"
+image: "https://blogger.googleusercontent.com/img/a/AVvXsEgh6MQYa9CmIlwzXFtmu88fcIkuH6bYX8bHj3-_qtLTqwcqD3HN-AFJ3qMj0Zi85WvAg2gsY-6XX2BFPoLcY29CW5mDx1r5wODqyHo5vpygqDEeJDjKl-E9Pwt82ztqsG_Sej8hsiKmEaEKECJ9jGCEe30Q0G_KnExFY9qusF7VQ3yawMy-7e0rrK6R"
 excerpt_separator: "<!--more-->"
 categories:
   - Cake
