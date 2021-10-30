@@ -7,11 +7,8 @@
 
 # Theme Settings
 #
-# Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark"
 
 # Site Settings
@@ -24,8 +21,8 @@ description              : "Web Recipe from Somewhere"
 url                      : https://sofiasias001.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : /assets/images/favicon.png"
+teaser                   : "/assets/images/favicon.png"
+logo                     : "/assets/images/favicon.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : true
 words_per_minute         : 200
@@ -71,7 +68,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification : google96cfac36b27eb6d0.html
+google_site_verification : Fw3qaRifoUAX4VRKh8WxRYjKG5TXbe9bUvdPYrfaAao
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
@@ -94,16 +91,16 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-universal"
   google:
-    tracking_id          :
+    tracking_id          : UA-209871875-1
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
   name             : "Sofia Sias"
-  avatar           : # path of avatar image, e.g. "/assets/images/sofia-sias.png"
+  avatar           : "/assets/images/sofia-sias.png"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
