@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Ukrainian village breakfast
-date: 2021-10-15T06:48:40+07:00
-category: Breakfast, Ukrainian
-tags: [breakfast, ukrainian]
+title: "Ukrainian village breakfast"
+excerpt_separator: "<!--more-->"
+categories:
+  - Breakfast, Ukrainian
+tags:
+  - breakfast, ukrainian
 ---
 
 Olia Hercules’ traditional Ukrainian breakfast eggs recipe – made with chicken, kale and shallots – is a hearty treat that will set you up for the day.
