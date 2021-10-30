@@ -1,85 +1,35 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
-last_modified_at: 2021-05-11T10:23:16-04:00
-toc: true
+toc: "true"
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+## The people behind BioGO
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+BioGO is born from the combined ideas and efforts of a teaching team from the University catholique de Louvain:
 
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
+### Guillaume Lobet
+Guillaume Lobet is an Assistant Professor, between the Forschungszentrum Jülich (IBG3, Agrosphere) and the Université catholique de Louvain (Earth and Life Institute). The aim of Guillaume’s research is (i) to understand how various signals that carry information are interacting and being conveyed and integrated at the plant level and (ii) to amplify discrete physiological knowledge into functional plant processes. All of that using Functional Structural Plant Models. More about Guillaume’s research can be found at [www.guillaumelobet.be](www.guillaumelobet.be).
 
-## Notable Features
+### Charlotte Descamps
+Charlotte Descamps is a PhD student (Earth and Life Institute) and teaching assistant at the Faculty of Bioengineers at UCLouvain. Her time is divided between teaching (mainly botany and plant identification) and pursuing a PhD on plant-pollinator relationships, with Prof. Anne-Laure Jacquemart and Prof. Muriel Quinet. The main objective is to highlight and understand how climate change, through water stress and temperature rise, can affect floral resources and the consequences of these modifications on pollinators.
 
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
-- Several responsive layout options (single, archive index, search, splash, and paginated home page).
-- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
-- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), [Discourse](https://www.discourse.org/), [utterances](https://utteranc.es/), [giscus](https://giscus.app/), static-based via [Staticman v1 and v2](https://staticman.net/), and custom).
-- [Google Analytics](https://www.google.com/analytics/) support.
-- UI localized text in English (default), Arabic (عربي), Brazilian Portuguese (Português brasileiro), Catalan, Chinese, Danish, Dutch, Finnish, French (Français), German (Deutsch), Greek, Hebrew, Hindi (हिंदी), Hungarian, Indonesian, Irish (Gaeilge), Italian (Italiano), Japanese, Korean, Malayalam, Myanmar (Burmese), Nepali (Nepalese), Norwegian (Norsk), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
+### Lola Leveau
+Lola Leveau is a bioengineer, PhD student and teaching assistant at the Faculty of Bioengineers at UCLouvain. The objective of her doctoral research is to compare the performances of innovative cropping systems set up by Belgian farmers, from the agronomic, environmental and economic points of view. This comparison is carried out in collaboration with a network of local farmers, on whose lands the measurements will be taken and with whose advice the protocols and measurement methods have been designed.
 
-## Demo Pages
+### Louise Mignard
+Louise Mignard is a bioengineer, PhD student and teaching assistant at the Faculty of Bioengineers at UCLouvain. Her thesis’ project deals with the impact of dietary fatty acids on tumour development and progression. The main objective of her work is to highlight and understand, through in vitro and in vivo models, the underlying mechanisms of the strong cytotoxic effects of some unusual fatty acids on advanced-developed tumours which show a high metabolic plasticity and an exacerbated fatty acid metabolism.
 
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tag. |
+### Jean-François Rees
+Jean-François Rees is an animal physiologist, professor at UCLouvain. He works on fish ecotoxicology at the Louvain Institute of Biomolecular Science and Technology (LIBST). One main aspect of his work deals with the question of the impact of pollutants on deep-sea fish, such as rattails, which cannot be kept alive at the surface, thus forbidding any experimental exposure of the fish to pollutants. For this reason, he develops in vitro systems for investigating the impact of high hydrostatic pressure on deep-sea fish liver cells responses to xenobiotics.
 
-For even more demo pages check the [posts archive][year-archive].
 
-[header-image-post]: {{ "" | relative_url }}{% post_url 2012-03-15-layout-header-image-text-readability %}
-[gallery-post]: {{ "" | relative_url }}{% post_url 2010-09-09-post-gallery %}
-[html-tags-post]: {{ "" | relative_url }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
-[syntax-post]: {{ "" | relative_url }}{% post_url 2013-08-16-markup-syntax-highlighting %}
-[sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
-[categories-archive]: {{ "/categories/" | relative_url }}
-[tags-archive]: {{ "/tags/" | relative_url }}
-[year-archive]: {{ "/year-archive/" | relative_url }}
+## The story behing BioGO
 
----
+> This is part of a blog post initially posted on [Botany One](https://www.botany.one/2019/11/biogo-a-treasure-hunt-to-teach-biology/)
 
-## Credits
+In February 2019,  we started the teaching season with a big challenge: teach an introductory biology class to 320 first-year students. The formal aim of the course was to get the students familiar with plant and animal structures at different scales, and how these structures interact and function together. Aside from that we also wanted to teach them to observe the natural world. We wanted them to realise that they do not need to go to a natural park to see high levels of biodiversity. But how to do that efficiently with 300+ students?
 
-### Icons + Demo Images:
+The classical way would be to prepare a deck of slides, detailing the different morphological features of plants and animals, and go through them in a plenary lecture. This is a solution that can be easily upscaled to any number of students. We have been through that as students ourselves. There is no better way to suck the motivation out of a student than reading ten slides describing different leaf arrangements. There had to be a better way. This is why we decided to create BioGO.
 
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
-
-### Other:
-
-- [Jekyll](https://jekyllrb.com/)
-- [jQuery](https://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Lunr](http://lunrjs.com)
-
----
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+BioGO (as in PokemonGO) is a large scale biological treasure hunt we created for our students. The principle is simple. In the first version of the game, we compiled a list of more than 250 “quests” to be found in Louvain-la-Neuve. These quests were all linked to biological structures and organisms, both botanical and zoological.
