@@ -1,8 +1,10 @@
 ---
-layout: post
-title: Crockpot Breakfast Casserole
-category: Breakfast
-tags: [breakfast, crockpot, casserole]
+title: "Crockpot Breakfast Casserole"
+excerpt_separator: "<!--more-->"
+categories:
+  - Breakfast
+tags:
+  - breakfast, crockpot, casserole
 ---
 
 Overnight Crockpot Breakfast Casserole is a classic breakfast casserole with eggs, sausage, bacon, hash browns, and cheese. It's easy to make, great for the holidays and feeding a crowd.
