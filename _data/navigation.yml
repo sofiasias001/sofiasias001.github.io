@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "Cake"
-    url: /cake/
-  - title: "Chicken"
-    url: /chicken/
-  - title: "Health"
-    url: /health/
-  - title: "Breakfast"
-    url: /breakfast/
-  - title: "Dinner"
-    url: /dinner/
+  - title: "About"
+    url: /abput/
+  - title: "Terms"
+    url: /terms/
+  - title: "Categories"
+    url: /categories/
+  - title: "Sitemap"
+    url: /sitemap/
