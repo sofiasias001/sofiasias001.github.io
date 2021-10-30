@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Xmas Day Dinner Recipes
-date: 2021-10-26T20:04:40+07:00
-category: Dinner
-tags: [dinner, christmas, xmas, beef, wellington]
+title: "Xmas Day Dinner Recipes"
+excerpt_separator: "<!--more-->"
+categories:
+  - Dinner
+tags:
+  - dinner, christmas, xmas, beef, wellington
 ---
 
 ## Beef wellington
