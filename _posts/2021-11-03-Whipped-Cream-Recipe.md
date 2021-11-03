@@ -39,4 +39,4 @@ Per Serving: 54 calories; protein 0.3g; carbohydrates 0.9g; fat 5.5g; cholestero
 
 ---
 
-![Whipped Cream Recipe](https://blogger.googleusercontent.com/img/a/AVvXsEh-JrMsN6poQYGolDAgh0ZjQ2PMIO1-bLBYiF1H3qGfeoMV-qNwOUNYqFrpUq3qQ0GOX5447A5IhuvbejNl9drlvD28_Ge5HIev-8AZ6_UfIbeJFrkWFF4i2fQU48Rji4fNt-kiDYraGELSOl--SrW62EXh_ja6EQg71Tn_Rfv72RnVwLsKuJ8S4TnZ)
+![Whipped Cream Recipe](https://blogger.googleusercontent.com/img/a/AVvXsEgGIH_wzcEcYn3qK0X042UcPWmm2ug8Ph8F_AXk4ID-tH-WtnLaC9pkORkNhn6KYp2rrgtu4k_arCt2zOOt44pwN-D31NcRbul3n2YFe1WJA4eytZvCTn-B17ZLS_3BqHS6Eo1GWPeeGpaWRUgCaG5DnakoaXCbxWK2cmP9HHCg23oVL9yWZQpSXBgQ)
