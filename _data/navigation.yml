@@ -14,9 +14,6 @@ sidebar:
 
 docs:
   - title: "Dating Site"
-    image: "/assets/images/dating.jpg"
+    image: "https://raw.githubusercontent.com/sofiasias001/sofiasias001.github.io/master/assets/images/dating.jpg"
     image_alt: "image"
     text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
-    nav: sidebar-sample
