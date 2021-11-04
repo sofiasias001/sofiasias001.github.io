@@ -127,14 +127,6 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
       
-      defaults:
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      sidebar:
-        nav: "docs"
 
 # Site Footer
 footer:
