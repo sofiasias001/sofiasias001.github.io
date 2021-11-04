@@ -10,7 +10,10 @@ main:
     url: /sitemap/
     
 sidebar:
-  - title: "Title"
-    image: "/assets/images/dating.jpg"
-    image_alt: "image"
-    text: "Some text here."
+  nav: "docs"
+    
+docs:
+  - title: Favorite
+    children:
+      - title: "Dating Site"
+        url: https://draggedindicationconsiderable.com/vb0nvbtfwc?key=fe791cd466d6dec06b4dcc14caff8d6f
