@@ -15,7 +15,7 @@ sidebar:
 docs:
   - title: "Dating Site"
     children:
-      title: "Click Here!"
-      url: https://draggedindicationconsiderable.com/vb0nvbtfwc?key=fe791cd466d6dec06b4dcc14caff8d6f
-      image: "/assets/images/dating.jpg"
-      image_alt: "Dating Site"
+      - title: "Click Here!"
+        url: https://draggedindicationconsiderable.com/vb0nvbtfwc?key=fe791cd466d6dec06b4dcc14caff8d6f
+        image: "/assets/images/dating.jpg"
+        image_alt: "Dating Site"
