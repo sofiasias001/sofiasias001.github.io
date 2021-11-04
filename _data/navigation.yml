@@ -10,12 +10,7 @@ main:
     url: /sitemap/
     
 sidebar:
-  nav: "docs"
-
-docs:
-  - title: "Dating Site"
-    children:
-      - title: "Click Here!"
-        url: https://draggedindicationconsiderable.com/vb0nvbtfwc?key=fe791cd466d6dec06b4dcc14caff8d6f
-        image: "![Contoh gambar](https://raw.githubusercontent.com/sofiasias001/sofiasias001.github.io/master/assets/images/dating.jpg)"
-        image_alt: "Dating Site"
+  - title: "Title"
+    image: "/assets/images/dating.jpg"
+    image_alt: "image"
+    text: "Some text here."
