@@ -4,7 +4,8 @@ excerpt_separator: "<!--more-->"
 categories:
   - Breakfast
 tags:
-  - breakfast, ham
+  - breakfast
+  - ham
 ---
 
 Easy Breakfast Ham Casserole is cheesy, gooey, and delicious (BONUS - it has tater tots). Your family will be scraping their plates & begging for more!
