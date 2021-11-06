@@ -4,7 +4,11 @@ excerpt_separator: "<!--more-->"
 categories:
   - Dinner
 tags:
-  - dinner, christmas, xmas, beef, wellington
+  - dinner
+  - christmas
+  - xmas
+  - beef
+  - wellington
 ---
 
 ## Beef wellington
