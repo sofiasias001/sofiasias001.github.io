@@ -2,9 +2,12 @@
 title: "Healthy Breakfast Ideas: Veggie Breakfast Tacos"
 excerpt_separator: "<!--more-->"
 categories:
-  - Healthy, Breakfast
+  - Healthy
+  - Breakfast
 tags:
-  - breakfast, healthy, tacos
+  - breakfast
+  - healthy
+  - tacos
 ---
 
 ![Healthy Breakfast Ideas Veggie Breakfast Tacos](https://blogger.googleusercontent.com/img/a/AVvXsEgXy-MIU7wSkyckJOWGKKoBG0g21rBq_gbxtG9OtH5395Q8riKrj4Z0q4iLWywDes_jpm1pZjnqG0A_zljMtD4hq0HgSX3G8Mj0HC_hnHB5jC816sKW6qmviXe4NTuKp2mmYM8PTdJikS5zooVbyu2DLEU1bmGXChIcOipux0IYIIDjze23k358crnv)
