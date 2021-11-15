@@ -11,7 +11,7 @@ tags:
 
 ## Potato Leek Soup
 
-otato Leek Soup is a classic! Nothing's better than a bowl of hearty potato soup on a chilly day. And it's easy, too! No cream needed, just purée the soup to make it thick and creamy.
+Potato Leek Soup is a classic! Nothing's better than a bowl of hearty potato soup on a chilly day. And it's easy, too! No cream needed, just purée the soup to make it thick and creamy.
 
 ---
 
