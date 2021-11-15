@@ -15,7 +15,7 @@ With layers of moist and sweet cake, and an addictive cinnamon and sugar streuse
 
 ---
 
-PREP TIME: 20 mins | COOK TIME: 40 mins | TOTAL TIME: 60 mins | SERVINGS: 4 to 6 servings
+Prep Time: 40 minutes | Cook Time: 60 minutes | Total Time: 1 hour 40 minutes | Yield: 15 slices
 
 ---
 
